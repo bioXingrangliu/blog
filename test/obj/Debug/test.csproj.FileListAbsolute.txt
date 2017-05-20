@@ -1,0 +1,6 @@
+D:\rubyPro\test\test\bin\test.dll.config
+D:\rubyPro\test\test\bin\test.dll
+D:\rubyPro\test\test\bin\test.pdb
+D:\rubyPro\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\rubyPro\test\test\obj\Debug\test.dll
+D:\rubyPro\test\test\obj\Debug\test.pdb

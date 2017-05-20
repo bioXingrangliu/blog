@@ -11,6 +11,8 @@
     <div>
     
         <asp:ListBox ID="ListBox1" runat="server"></asp:ListBox>
+        <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+        <asp:CheckBox ID="CheckBox1" runat="server" />
     
     </div>
     </form>

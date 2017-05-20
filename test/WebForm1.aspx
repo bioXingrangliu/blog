@@ -11,6 +11,8 @@
     <div>
     
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <asp:Table ID="Table1" runat="server" Height="215px" Width="321px">
+        </asp:Table>
     
     </div>
     </form>
